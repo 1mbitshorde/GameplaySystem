@@ -10,6 +10,7 @@ namespace OneM.GameplaySystem
         Cutscene,
         Pause,
         Debug,
+        Menu,
         Dialogue
     }
 }

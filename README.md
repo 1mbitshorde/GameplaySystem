@@ -4,7 +4,11 @@ Gameplay code for Unity Games
 
 ## Features
 
-### Using [...]
+### Using GameplayManager
+
+The global manager for Gameplay. Put this component inside a GameObject into your Game Scene and set its `CurrentState` for all Gameplay states in your game.
+
+You can listen for those state changes by subscribing to the static event `GameplayManager.OnStateChanged`.
 
 ## Installation
 

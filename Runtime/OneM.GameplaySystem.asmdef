@@ -2,7 +2,9 @@
     "name": "OneM.GameplaySystem",
     "rootNamespace": "OneM.GameplaySystem",
     "references": [
-        "GUID:9038eb8394d01e245b10f54fa73de77f"
+        "GUID:9038eb8394d01e245b10f54fa73de77f",
+        "GUID:9e24947de15b9834991c9d8411ea37cf",
+        "GUID:84651a3751eca9349aac36a66bba901b"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

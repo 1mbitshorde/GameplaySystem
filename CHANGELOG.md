@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 ### Added
+- GameLoader and ILoadable interface
 - PrefabLoader component
 - Scene Management 7.0.0 package dependency
 - Addressables 2.7.2 package dependency

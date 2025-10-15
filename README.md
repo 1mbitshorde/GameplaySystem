@@ -14,6 +14,14 @@ You can listen for those state changes by subscribing to the static event `Gamep
 
 Use this component to loads (and unloads) a Prefab using Addressables.
 
+### Using GameLoader
+
+After the Game Scene is load (in the first frame), use the component [GameLoader](/Runtime/Loaders/GameLoader.cs) to load a series of [ILoadable](/Runtime/Loaders/ILoadable.cs) implementations as Game Objects children, one at a time, in the order they are in the hierarchy as children.
+
+![GameSystems](Docs~/GameSystems.png "Game Systems")
+
+Use it to load code asynchronously in order, as soon as the Game Scene is ready. It works both from the Main Menu or just in the Play mode.
+
 ## Installation
 
 ### Using the Git URL

@@ -5,6 +5,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+
+## [0.2.0] - 2025-10-15
 ### Added
 - GameLoader and ILoadable interface
 - PrefabLoader component
@@ -21,5 +23,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - gitignore
 - Initial commit
 
-[Unreleased]: https://github.com/1mbitshorde/GameplaySystem/compare/0.1.0...main
+[Unreleased]: https://github.com/1mbitshorde/GameplaySystem/compare/0.2.0...main
+[0.2.0]: https://github.com/1mbitshorde/GameplaySystem/tree/0.2.0/
 [0.1.0]: https://github.com/1mbitshorde/GameplaySystem/tree/0.1.0/

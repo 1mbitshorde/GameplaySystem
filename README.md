@@ -10,6 +10,10 @@ The global manager for Gameplay. Put [GameplayManager](/Runtime/GameplayManager.
 
 You can listen for those state changes by subscribing to the static event `GameplayManager.OnStateChanged`.
 
+### Using PrefabLoader
+
+Use this component to loads (and unloads) a Prefab using Addressables.
+
 ## Installation
 
 ### Using the Git URL

@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 ### Added
+- PrefabLoader component
 - Addressables 2.7.2 package dependency
 
 ## [0.1.0] - 2025-10-15

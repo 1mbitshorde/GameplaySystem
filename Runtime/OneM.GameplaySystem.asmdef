@@ -1,0 +1,16 @@
+{
+    "name": "OneM.GameplaySystem",
+    "rootNamespace": "OneM.GameplaySystem",
+    "references": [
+        "GUID:9038eb8394d01e245b10f54fa73de77f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

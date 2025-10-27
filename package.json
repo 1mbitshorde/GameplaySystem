@@ -1,7 +1,7 @@
 {
   "name": "com.1mbitshorde.gameplay-system",
   "displayName": "1M Bits Horde-Gameplay System",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "unity": "6000.1",
   "description": "This package contains Gameplay code for Unity Games.",
   "keywords": [

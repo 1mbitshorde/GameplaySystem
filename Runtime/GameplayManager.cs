@@ -16,6 +16,11 @@ namespace OneM.GameplaySystem
     public sealed class GameplayManager : MonoBehaviour
     {
         /// <summary>
+        /// The single Player instance.
+        /// </summary>
+        public static GameObject Player { get; set; }
+
+        /// <summary>
         /// The last Game State.
         /// </summary>
         public static State LastState { get; private set; }
@@ -50,6 +55,7 @@ namespace OneM.GameplaySystem
 
         private static void Dispose()
         {
+            Player = null;
             LastState = default;
             currentState = default;
         }

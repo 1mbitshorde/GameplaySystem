@@ -53,6 +53,12 @@ namespace OneM.GameplaySystem
 
         private void OnDestroy() => Dispose();
 
+        /// <summary>
+        /// Whether there is a Player instance set.
+        /// </summary>
+        /// <returns></returns>
+        public static bool HasPlayer() => Player != null;
+
         private static void Dispose()
         {
             Player = null;

@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [Unreleased]
 ### Added
 - Place
-- IRespawnable
+- IRespawnable interface and Respawner component
 - Screen Fade System dependency
 
 ## [0.3.0] - 2025-10-27

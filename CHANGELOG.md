@@ -6,7 +6,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 ### Added
-- Place
+- Respawn game
+- Place struct
 - IRespawnable interface and Respawner component
 - Screen Fade System dependency
 

@@ -11,6 +11,7 @@ namespace OneM.GameplaySystem
         Pause,
         Debug,
         Menu,
-        Dialogue
+        Dialogue,
+        Respawn
     }
 }
